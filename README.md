@@ -1,3 +1,5 @@
+# CSCI-160-Seam-Carver
+
 Programming Assignment 7: Seam Carving
 Isaac Schatia
 
