@@ -95,30 +95,7 @@ taking a transpose like the checklist suggested. If I instead re-worked the code
 directly It would probably have run as fast as the vertical ones.
 
 /* *****************************************************************************
- *  Describe whatever help (if any) that you received.
- *  Don't include readings, lectures, and precepts, but do
- *  include any help from people (including course staff, lab TAs,
- *  classmates, and friends) and attribute them by name.
- **************************************************************************** */
-
-No help.
-
-/* *****************************************************************************
  *  Describe any serious problems you encountered.
  **************************************************************************** */
 
 Forgot to transpose the picture along with the energy array originally.
-
-/* *****************************************************************************
- *  If you worked with a partner, assert below that you followed
- *  the protocol as described on the assignment page. Give one
- *  sentence explaining what each of you contributed.
- **************************************************************************** */
-
-No partner.
-
-/* *****************************************************************************
- *  List any other comments here. Feel free to provide any feedback
- *  on how much you learned from doing the assignment, and whether
- *  you enjoyed doing it.
- **************************************************************************** */
